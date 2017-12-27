@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.williamlaw.exddm.view.DropdownItemView xmlns:android="http://schemas.android.com/apk/res/android"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="38dp"
+                                            android:background="@drawable/selector_press_bg"
+                                            android:drawablePadding="8dp"
+                                            android:drawableLeft="@drawable/icon_incresing"
+                                            android:drawableRight="@drawable/icon_choosed"
+                                            android:gravity="center_vertical|left"
+                                            android:maxLines="1"
+                                            android:paddingLeft="15dp"
+                                            android:paddingRight="15dp"
+                                            android:singleLine="true"
+                                            android:text="选项"
+                                            android:textColor="@color/font_black_6"
+                                            android:textSize="15sp">
+
+</com.williamlaw.exddm.view.DropdownItemView>

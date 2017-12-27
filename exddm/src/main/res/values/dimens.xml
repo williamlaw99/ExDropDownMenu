@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="width_16dp">16dp</dimen>
+    <dimen name="height_16dp">16dp</dimen>
+    <dimen name="width_18dp">18dp</dimen>
+    <dimen name="height_18dp">18dp</dimen>
+</resources>

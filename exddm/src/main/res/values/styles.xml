@@ -1,0 +1,10 @@
+<resources>
+
+    <style name="BaseTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@color/bg_white</item>
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="ExTheme" parent="@style/BaseTheme">
+    </style>
+</resources>
